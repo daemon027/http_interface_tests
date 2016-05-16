@@ -70,6 +70,6 @@ you can make your test case file like this:
 ```python
 python run.py [test_suite.xml] [$HOST_IP]
 ```
-The test case file and host ip are optional:
+The test case file and host ip are optional:  
     1. The default test case file is "test_suite.xml" if it's not specified.  
     2. The IP host is the host_name value in test case file if it's not specified.  
